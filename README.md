@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @farkar1208
+- 👀 I’m interested in computer systems
+- 🌱 I’m currently learning CSAPP
+- 💞️ I’m looking to collaborate on any sizes
+- 📫 email me at farkar@163.com
